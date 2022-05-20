@@ -2,8 +2,8 @@
 
 ### -> root/MyStack
   
-  ![javascript](https://user-images.githubusercontent.com/88783602/169487565-4d0905db-3504-4234-8f67-2f85f35cef1c.svg)
-  ![react](https://user-images.githubusercontent.com/88783602/169487645-69a2f8d6-ceeb-4232-ab08-9d8b74f69144.svg)
+  ![javascript](https://user-images.githubusercontent.com/88783602/169487565-4d0905db-3504-4234-8f67-2f85f35cef1c.svg =100x100)
+  ![react](https://user-images.githubusercontent.com/88783602/169487645-69a2f8d6-ceeb-4232-ab08-9d8b74f69144.svg =100x100)
 ![nodedotjs](https://user-images.githubusercontent.com/88783602/169487706-df882be0-bd0c-4176-800e-218da2eff29c.svg)
 ![mongodb](https://user-images.githubusercontent.com/88783602/169487718-92d2041c-9c5c-4f3b-80d8-138d58741af1.svg)
 ![express](https://user-images.githubusercontent.com/88783602/169487726-fd9c9c69-0a86-40a3-943d-00d252dee995.svg)
