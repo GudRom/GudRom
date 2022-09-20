@@ -16,6 +16,10 @@
 ![html5](https://user-images.githubusercontent.com/88783602/169494195-e9b0e850-0710-4d66-871c-2c4bcee4a6d2.png)
 ![css3](https://user-images.githubusercontent.com/88783602/169494205-c35c8135-7d2d-46e1-b4fd-82cb386082c6.png)
 ![git](https://user-images.githubusercontent.com/88783602/169494218-afa3491c-ed75-4dbb-b114-f0c0a41b025b.png)
+   #### -> root/MyTechStack/inProgress
+ ![redux](https://user-images.githubusercontent.com/88783602/191228080-f93694ed-3e8b-4e11-b73e-63399eacd0ba.png)
+ ![typescript](https://user-images.githubusercontent.com/88783602/191228149-fa21016b-392a-457e-952a-8e214abba961.png)
+ ![vuedotjs](https://user-images.githubusercontent.com/88783602/191228109-18c71521-63d3-415f-b740-46c1935c140c.png)
 
 ### -> root/MyStats
 ***
